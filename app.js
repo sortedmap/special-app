@@ -1,3 +1,3 @@
 $(function(){
-    //some code
+    let button = document.querySelector('.submit');
 });
