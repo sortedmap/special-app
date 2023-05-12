@@ -1,2 +1,3 @@
 $(function(){
+  let out = 'Выход';
 });
